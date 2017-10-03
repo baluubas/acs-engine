@@ -66,6 +66,15 @@ const (
 	StandardA8 VMSizeTypes = "Standard_A8"
 	// StandardA9 specifies the standard a9 state for vm size types.
 	StandardA9 VMSizeTypes = "Standard_A9"
+
+	StandardA8 VMSizeTypes = "Standard_A8"
+	
+	// StandardB2MS specifies the standard B2ms state for vm size types.
+	StandardB2S VMSizeTypes = "Standard_B2s"
+
+	// StandardB2MS specifies the standard B2ms state for vm size types.
+	StandardB2MS VMSizeTypes = "Standard_B2MS"
+
 	// StandardD1 specifies the standard d1 state for vm size types.
 	StandardD1 VMSizeTypes = "Standard_D1"
 	// StandardD11 specifies the standard d11 state for vm size types.

@@ -162,6 +162,8 @@ func GetMasterAgentAllowedSizes() string {
         "Standard_A8_v2",
         "Standard_A8m_v2",
         "Standard_A9",
+        "Standard_B2s",
+        "Standard_B2MS",
         "Standard_D11",
         "Standard_D11_v2",
         "Standard_D11_v2_Promo",

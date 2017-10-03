@@ -225,6 +225,13 @@ const (
 	// StandardA9 specifies the standard a9 state for virtual machine size
 	// types.
 	StandardA9 VirtualMachineSizeTypes = "Standard_A9"
+	
+	// StandardB2MS specifies the standard B2ms state for vm size types.
+	StandardB2S VirtualMachineSizeTypes = "Standard_B2s"
+	
+	// StandardB2MS specifies the standard B2ms state for vm size types.
+	StandardB2MS VirtualMachineSizeTypes = "Standard_B2MS"
+	
 	// StandardD1 specifies the standard d1 state for virtual machine size
 	// types.
 	StandardD1 VirtualMachineSizeTypes = "Standard_D1"
