@@ -32,9 +32,9 @@ const (
 	// SwarmDockerComposeVersion is the Docker Compose version
 	SwarmDockerComposeVersion = "1.6.2"
 	// DockerCEVersion is the DockerCE orchestrator version
-	DockerCEVersion = "17.03.*"
+	DockerCEVersion = "17.09.*"
 	// DockerCEDockerComposeVersion is the Docker Compose version
-	DockerCEDockerComposeVersion = "1.14.0"
+	DockerCEDockerComposeVersion = "1.16.1"
 )
 
 // validation values
